@@ -1,0 +1,8 @@
+# Ignore docker-created directories
+db/
+plugins/
+themes/
+wp/
+
+# Always ignore node_modules
+node_modules
