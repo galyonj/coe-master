@@ -1,0 +1,3 @@
+[submodule "plugins/coe-asset-management"]
+	path = plugins/coe-asset-management
+	url = git@github.com:galyonj/coe-asset-management
