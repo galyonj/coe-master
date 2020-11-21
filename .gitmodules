@@ -1,3 +1,18 @@
-[submodule "plugins/wpbt"]
-	path = plugins/wpbt
-	url = git@github.com:JoeSz/WordPress-Plugin-Boilerplate-Tutorial
+# [submodule "plugins/wpbt"]
+# 	path = plugins/wpbt
+# 	url = git@github.com:JoeSz/WordPress-Plugin-Boilerplate-Tutorial
+# [submodule "plugins/coe-asset-management"]
+# 	path = plugins/coe-asset-management
+# 	url = git@github.com:galyonj/coe-asset-management
+# [submodule "plugins/coe-am"]
+# 	path = plugins/coe-am
+# 	url = git@github.com:galyonj/coe-am
+# [submodule "plugins/plugins/nds-admin-form-demo"]
+# 	path = plugins/plugins/nds-admin-form-demo
+# 	url = git@github.com:karannagupta/nds-admin-form-demo
+# [submodule "plugins/nds-admin-form-demo"]
+# 	path = plugins/nds-admin-form-demo
+# 	url = git@github.com:karannagupta/nds-admin-form-demo
+[submodule "plugins/asset-management"]
+	path = plugins/asset-management
+	url = git@github.com:galyonj/asset-management
