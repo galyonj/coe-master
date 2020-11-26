@@ -12,17 +12,10 @@
 		}
 	],
 	"require": {
-		"wpackagist-plugin/ninja-forms": "^3.4",
-		"wpackagist-plugin/the-events-calendar": "^5.2",
-		"wpackagist-plugin/advanced-custom-fields": "^5.9",
-		"wpackagist-plugin/classic-editor": "^1.6",
-		"wpackagist-plugin/stream": "^3.6",
 		"wpackagist-plugin/what-the-file": "^1.5",
-		"wpackagist-plugin/all-in-one-seo-pack": "^3.7",
 		"wpackagist-plugin/debug-this": "^0.6.3",
-		"wpackagist-plugin/tinymce-advanced": "^5.5",
-		"wpackagist-plugin/custom-post-type-ui": "^1.8",
-		"wpackagist-plugin/disable-comments": "^1.11"
+		"wpackagist-plugin/all-meta-tags": "^4.41",
+		"wpackagist-plugin/custom-post-type-ui": "^1.8"
 	},
 	"extra": {
 		"installer-paths": {

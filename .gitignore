@@ -6,3 +6,6 @@ wp/
 
 # Always ignore node_modules
 node_modules
+
+# ignore certain dotfiles
+.env
