@@ -3,6 +3,7 @@ db/
 plugins/
 themes/
 wp/
+vendor/
 
 # Always ignore node_modules
 node_modules
