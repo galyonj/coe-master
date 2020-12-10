@@ -16,9 +16,6 @@
 [submodule "plugins/asset-management"]
 	path = plugins/asset-management
 	url = git@github.com:galyonj/asset-management
-[submodule "plugins/coe-am"]
-	path = plugins/coe-am
-	url = git@github.com:galyonj/coe-am
 [submodule "plugins/wpbt"]
 	path = plugins/wpbt
 	url = git@github.com:joez/wordpress-plugin-boilerplate-tutorial

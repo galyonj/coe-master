@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => '15c782aa8611ac22f881d6bdfd09a3e9bacc49e0',
+    'reference' => 'b453e9ef0ca939944838cdbb1d6cc277ee7c7c9f',
     'name' => 'utk/coefoodsafetytools',
   ),
   'versions' => 
@@ -41,7 +41,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => '15c782aa8611ac22f881d6bdfd09a3e9bacc49e0',
+      'reference' => 'b453e9ef0ca939944838cdbb1d6cc277ee7c7c9f',
     ),
     'wpackagist-plugin/all-meta-tags' => 
     array (
