@@ -14,8 +14,10 @@
 	"require": {
 		"wpackagist-plugin/what-the-file": "^1.5",
 		"wpackagist-plugin/debug-this": "^0.6.3",
-		"wpackagist-plugin/all-meta-tags": "^4.41",
-		"wpackagist-plugin/custom-post-type-ui": "^1.8"
+		"wpackagist-plugin/custom-post-type-ui": "^1.8",
+		"wpackagist-plugin/debug-bar": "^1.1",
+		"wpackagist-plugin/debug-bar-actions-and-filters-addon": "^1.5",
+		"wpackagist-plugin/query-monitor": "^3.6"
 	},
 	"extra": {
 		"installer-paths": {
@@ -28,5 +30,8 @@
 		}
 	},
 	"require-dev": {
+		"automattic/vipwpcs": "^2.2",
+		"dealerdirect/phpcodesniffer-composer-installer": "^0.7.1",
+		"phpcompatibility/phpcompatibility-wp": "2.1.0"
 	}
 }

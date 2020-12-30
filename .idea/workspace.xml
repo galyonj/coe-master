@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b8cdfd7b-1801-458e-b096-5fc7a7c7dea0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/plugins/asset-management/assets/webfonts/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/asset-management/assets/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/asset-management/assets/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/asset-management/assets/webfonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/asset-management/assets/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/asset-management/assets/webfonts/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/asset-management/assets/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/asset-management/assets/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/asset-management/assets/webfonts/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/asset-management/assets/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/asset-management/assets/webfonts/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/asset-management/assets/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/asset-management/assets/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/asset-management/assets/webfonts/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/asset-management/assets/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/asset-management/dev/css/coe-am.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/asset-management/dev/js/coe-am.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/asset-management/inc/activate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/asset-management/inc/enqueue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/asset-management/inc/metadata-html.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/asset-management/inc/metadata-list.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/asset-management" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/asset-management" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/asset-management/asset-management.php" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/asset-management/asset-management.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/asset-management/assets/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/asset-management/assets/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/asset-management/assets/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/asset-management/assets/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/asset-management/assets/coe-am.js" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/asset-management/assets/js/coe-am.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/asset-management/classes/class-coe-am-admin-ui.php" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/asset-management/classes/class-coe-am-admin-ui.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/asset-management/inc/deactivation.php" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/asset-management/inc/deactivation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/asset-management/inc/metaboxes.php" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/asset-management/inc/metaboxes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/asset-management/inc/metadata.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/asset-management/inc/register-cpt.php" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/asset-management/inc/register-cpt.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/asset-management/inc/utils.php" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/asset-management/inc/utils.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/asset-management/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/asset-management/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/asset-management/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/asset-management/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/nds-admin-form-demo" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/nds-admin-form-demo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/nds-admin-form-demo/inc/admin/class-admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/nds-admin-form-demo/inc/admin/class-admin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/nds-admin-form-demo/inc/admin/views/partials-html-form-view.php" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/nds-admin-form-demo/inc/admin/views/partials-html-form-view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/nds-admin-form-demo/inc/core/class-init.php" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/nds-admin-form-demo/inc/core/class-init.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/nds-admin-form-demo/inc/libraries/autoloader.php" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/nds-admin-form-demo/inc/libraries/autoloader.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/InstalledVersions.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/InstalledVersions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_real.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/installed.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="DONT_SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="DrupalConfiguration">
+    <drupalPath />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+        <option value="SCSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/plugins/asset-management" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/plugins/asset-management/asset-management.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="JoomlaConfiguration">
+    <joomlaConfigPath />
+    <joomlaPath />
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="NamedScopeManager">
+    <scope name="ignore_non_php" pattern="!file[coefoodsafetytools.org]:plugins/asset-management/dev/**/*.js||!file[coefoodsafetytools.org]:plugins/asset-management/dev/**/*.scss||!file[coefoodsafetytools.org]:plugins/asset-management/dev/**/*.css||!file[coefoodsafetytools.org]:plugins/asset-management/assets/**/*.js||!file[coefoodsafetytools.org]:plugins/asset-management/assets/**/*.scss||!file[coefoodsafetytools.org]:plugins/asset-management/assets/**/*.css" />
+  </component>
+  <component name="PHPCodeSnifferBlackList">
+    <option name="filePaths">
+      <option value="$PROJECT_DIR$/plugins/asset-management/assets/js/bootstrap.min.js" />
+      <option value="$PROJECT_DIR$/plugins/asset-management/assets/js/coe-am.js" />
+      <option value="$PROJECT_DIR$/plugins/asset-management/assets/css/bootstrap.min.css" />
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/dealerdirect/phpcodesniffer-composer-installer" />
+      <path value="$PROJECT_DIR$/vendor/phpcompatibility/phpcompatibility-wp" />
+      <path value="$PROJECT_DIR$/vendor/phpcompatibility/php-compatibility" />
+      <path value="$PROJECT_DIR$/vendor/automattic/vipwpcs" />
+      <path value="$PROJECT_DIR$/vendor/squizlabs/php_codesniffer" />
+      <path value="$PROJECT_DIR$/vendor/wp-coding-standards/wpcs" />
+      <path value="$PROJECT_DIR$/vendor/sirbrillig/phpcs-variable-analysis" />
+      <path value="$PROJECT_DIR$/vendor/phpcompatibility/phpcompatibility-paragonie" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1lR4m222bdkNFLCx7eIYxacBjx1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/plugins/asset-management/assets/css/bootstrap.min.css" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.php.quality.tools" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8cdfd7b-1801-458e-b096-5fc7a7c7dea0" name="Default Changelist" comment="" />
+      <created>1607546728352</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607546728352</updated>
+      <workItem from="1607546740782" duration="2112000" />
+      <workItem from="1607548958514" duration="1959000" />
+      <workItem from="1607550975278" duration="1687000" />
+      <workItem from="1607553081427" duration="4000" />
+      <workItem from="1607553167009" duration="28000" />
+      <workItem from="1607603887610" duration="12820000" />
+      <workItem from="1607626148526" duration="4103000" />
+      <workItem from="1607631210984" duration="2744000" />
+      <workItem from="1607689770306" duration="11402000" />
+      <workItem from="1607715191041" duration="4916000" />
+      <workItem from="1607798495555" duration="992000" />
+      <workItem from="1607804265281" duration="5012000" />
+      <workItem from="1607809646081" duration="6843000" />
+      <workItem from="1607950996992" duration="12217000" />
+      <workItem from="1607965478450" duration="5138000" />
+      <workItem from="1607973554847" duration="191000" />
+      <workItem from="1608819206002" duration="152000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WordPressConfiguration" enabled="true">
+    <wordpressPath>$PROJECT_DIR$/wp</wordpressPath>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

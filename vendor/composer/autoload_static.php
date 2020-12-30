@@ -7,6 +7,14 @@ namespace Composer\Autoload;
 class ComposerStaticInit0796eaf2263ba3d82b14faff72f291fb
 {
     public static $prefixLengthsPsr4 = array (
+        'V' => 
+        array (
+            'VariableAnalysis\\' => 17,
+        ),
+        'D' => 
+        array (
+            'Dealerdirect\\Composer\\Plugin\\Installers\\PHPCodeSniffer\\' => 55,
+        ),
         'C' => 
         array (
             'Composer\\Installers\\' => 20,
@@ -14,6 +22,14 @@ class ComposerStaticInit0796eaf2263ba3d82b14faff72f291fb
     );
 
     public static $prefixDirsPsr4 = array (
+        'VariableAnalysis\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/sirbrillig/phpcs-variable-analysis/VariableAnalysis',
+        ),
+        'Dealerdirect\\Composer\\Plugin\\Installers\\PHPCodeSniffer\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/dealerdirect/phpcodesniffer-composer-installer/src',
+        ),
         'Composer\\Installers\\' => 
         array (
             0 => __DIR__ . '/..' . '/composer/installers/src/Composer/Installers',
